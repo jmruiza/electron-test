@@ -12,5 +12,8 @@
     "test"
   ],
   "author": "Juan Manuel Ruiz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
 }
